@@ -20,4 +20,17 @@
     > getter and setter
     > static method
 
-    > Inheritence
+
+5. Inheritance
+    > Inheritence code example
+    > Why inheritence is needed? (code reuseability, parent has no access to child class)
+    > What gets inherited? - Constructor, Non private attributes, Non private methods
+    > constructor overloading & methos overloading
+    > super keyword (can be used only inside class, can not access variables/attributes, used only inside chile class)
+
+    > Types of inheritance :-
+        1. Single Inheritance 
+        2. Multilevel
+        3. Hierarchical
+        4. Multiple <Diamond problem> 
+        5. Hybrid
